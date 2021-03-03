@@ -42,7 +42,7 @@
     "painless-config-resolver": "^1.1.1",
     "passport": "^0.4.0",
     "passport-azure-ad": "^4.0.0",
-    "pug": "~2.0.0-beta6",
+    "pug": "~3.0.1",
     "q": "^1.5.1",
     "qlimit": "^0.1.1",
     "querystring": "^0.2.0",
